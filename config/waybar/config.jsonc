@@ -1,0 +1,8 @@
+[{
+    "include": ["$HOME/.config/waybar/config-top.jsonc"],
+    "name": "top"
+},
+{
+    "include": ["$HOME/.config/waybar/config-bottom.jsonc"],
+    "name": "bottom"
+}]
