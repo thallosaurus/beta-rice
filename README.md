@@ -11,4 +11,4 @@ use `unmount-config.sh` to unmount it.
 - caja
 
 ## setup
-clone the repo and fetch the submodules for the wallpapers. copy the contents of the config folder to your `.config` and restart sway
+clone the repo and fetch the submodules for the wallpapers. generate a pywal scheme with `wal -i <wallpaper>`. copy the contents of the config folder to your `.config` and restart sway
