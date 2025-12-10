@@ -1,0 +1,6 @@
+exec udiskie -t
+exec nwg-look -a
+exec caja --force-desktop --no-default-window
+exec nm-applet
+exec sleep 1 && waybar
+exec /opt/beta/theme/scripts/restore-wallpaper.sh
